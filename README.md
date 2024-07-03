@@ -1,4 +1,4 @@
-# Resume Using HTML and CSS
+# Background change on button click using HTML, CSS, and JavaScript
 
 This webpage features a button that changes the background color using HTML, CSS, and JavaScript.
 It demonstrates basic interactivity, allowing users to modify the page's appearance for a more
